@@ -1,3 +1,4 @@
+#Sampozki 2018
 import time
 import matplotlib.pyplot as plt
 
